@@ -27,8 +27,10 @@ std::shuffle(dirs.begin(), dirs.end(), rng);
 
 ## 執行方式
 執行後依提示輸入迷宮的長寬 (例如 `10 10`)，即可看到迷宮自動生成與解謎過程。
+
 輸入：
 <img width="287" height="52" alt="input" src="https://github.com/user-attachments/assets/122c2a90-b99f-47c9-aeda-ac4096e56dc0" />
+
 輸出：
 <img width="172" height="178" alt="output" src="https://github.com/user-attachments/assets/d8bd6b53-c79d-4ee9-b262-869b31b185f8" />
 
